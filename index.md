@@ -409,23 +409,6 @@ of code below the Schedule `<h2>` header below with
       </tr>
     </table>
   </div>
-  <div class="col-md-6"> <!-- right column -->
-    <h3>Day 4</h3>
-    <table class="table table-striped">
-      <tr>               <!-- row 1   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
-      </tr>
-      <tr>               <!-- row 2   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
-      </tr>
-      <tr>               <!-- row 3   -->
-        <td>End</td>
-        <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop survey</a></td>
-      </tr>
-    </table>
-  </div>
 </div>
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
@@ -514,3 +497,6 @@ Please check the "Setup" page of
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+{% include install_instructions/shell.html %}
+{% include install_instructions/editor.html %}
+{% include install_instructions/python.html %}
