@@ -414,6 +414,7 @@ of code below the Schedule `<h2>` header below with
 <div class="row">        <!-- days 3 and 4 -->
   <div class="col-md-6"> <!-- left column -->
     <h3>Day 3 (<a href="http://jeremy9959.net">Jeremy Teitelbaum</a>)</h3>
+     <table class="table table-striped">
     <tr>               <!-- row 2   -->
         <td>2:00-2:50</td>        <!-- time    -->
         <td>Python IV</td>        <!-- content -->
