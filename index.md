@@ -364,12 +364,24 @@ of code below the Schedule `<h2>` header below with
         <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank">Pre-workshop survey</a></td>
       </tr>
       <tr>               <!-- row 2   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>2:00-2:50</td>        <!-- time    -->
+        <td>Shell I</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>2:50-3:00</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>3:00-3:50</td>        <!-- time    -->
+        <td>Shell II</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>3:50-4:00</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>4:00-4:50</td>        <!-- time    -->
+        <td>Shell III</td>        <!-- content -->
       </tr>
     </table>
   </div>
