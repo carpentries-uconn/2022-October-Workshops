@@ -388,17 +388,25 @@ of code below the Schedule `<h2>` header below with
   <div class="col-md-6"> <!-- right column -->
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr>               <!-- row 1   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
-      </tr>
       <tr>               <!-- row 2   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>2:00-2:50</td>        <!-- time    -->
+        <td>Python I</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>2:50-3:00</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>3:00-3:50</td>        <!-- time    -->
+        <td>Python II</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>3:50-4:00</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>4:00-4:50</td>        <!-- time    -->
+        <td>Python III</td>        <!-- content -->
       </tr>
     </table>
   </div>
@@ -406,18 +414,25 @@ of code below the Schedule `<h2>` header below with
 <div class="row">        <!-- days 3 and 4 -->
   <div class="col-md-6"> <!-- left column -->
     <h3>Day 3</h3>
-    <table class="table table-striped">
-      <tr>               <!-- row 1   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
-      </tr>
-      <tr>               <!-- row 2   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+    <tr>               <!-- row 2   -->
+        <td>2:00-2:50</td>        <!-- time    -->
+        <td>Python IV</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
-        <td></td>        <!-- time    -->
-        <td></td>        <!-- content -->
+        <td>2:50-3:00</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>3:00-3:50</td>        <!-- time    -->
+        <td>Python V</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>3:50-4:00</td>        <!-- time    -->
+        <td>Break</td>        <!-- content -->
+      </tr>
+      <tr>               <!-- row 3   -->
+        <td>4:00-4:50</td>        <!-- time    -->
+        <td>Python VI</td>        <!-- content -->
       </tr>
     </table>
   </div>
